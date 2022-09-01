@@ -20,7 +20,7 @@
       postData.append('page', this.lpage);
       postData.append('lang', this.llang);
  
-      axios.post('http://www.vmvcore.com/api/landingpage', postData) 
+      axios.post('https://www.vmvcore.com/api/landingpage', postData) 
       .then(results => {
           this.limg1 = results.data[0];      
           this.limg2 = results.data[1];      
