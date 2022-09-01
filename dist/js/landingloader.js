@@ -35,7 +35,6 @@
     },
     template: `
       <div>
-        <h1 class="red">hi</h1>
         <img class="red" :src="limg1" />
         <img class="red" :src="limg2" />
         <img class="red" :src="limg3" />
