@@ -35,10 +35,10 @@
     },
     template: `
       <div>
-        <img class="red" :src="limg1" />
-        <img class="red" :src="limg2" />
-        <img class="red" :src="limg3" />
-        <img class="red" :src="limg4" />
+        <img class="redflag" :src="limg1" />
+        <img class="redflag" :src="limg2" />
+        <img class="redflag" :src="limg3" />
+        <img class="redflag" :src="limg4" />
       </div>
     `
   })
