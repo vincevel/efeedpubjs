@@ -6,6 +6,7 @@
       return {
         ltype: this.type,
         llang: this.lang,
+        lhref: "",
         bot: false
       }
     },
