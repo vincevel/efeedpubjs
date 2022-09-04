@@ -15,7 +15,7 @@
       postData.append('type', this.ltype);
       postData.append('lang', this.llang);
  
-      axios.post('http://www.vmvcore.com/api/ugbuttonloader', postData) 
+      axios.post('https://www.vmvcore.com/api/ugbuttonloader', postData) 
       .then(results => {
           this.lhref = results.data[0];      
       })
