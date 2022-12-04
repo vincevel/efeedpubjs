@@ -1,4 +1,4 @@
- Vue.config.devtools = true
+ //Vue.config.devtools = true
   Vue.component('landingpageloaderhtmltemplate', {
     props: ['type','page','lang','url'],
     data: function () {
