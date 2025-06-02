@@ -54,7 +54,7 @@ Websites often require user guides in multiple languages to cater to diverse aud
 
 ## Usage
 - Click the "Generate User Guide" button to display the user guide.
-- Select a language from the widget's interface (if implemented) to switch between available languages.
+- Select a language from the widget's interface to switch between available languages.
 - Integrate the widget into any webpage by embedding the provided HTML and linking the CSS/JavaScript files.
 
 ## Contributing
